@@ -18,7 +18,7 @@ GMT +0
 http://www.lochness.co.uk/livecam/index.html
 
 GMT +1
-http://www.abbeyroad.com/crossing
+http://www.earthcam.com/clients/abbeyroad/embed.php?mode=live&width=732&width=717
 
 GMT +2
 http://www.porjus.eu/aurora-webcams

@@ -1,5 +1,10 @@
 extends layout
 
 block content
-  h1= title
-  p Look at all the webcams here! #{title}
+	h1= title
+	p Look at all the webcams here!
+	each thiswebcam, i in webcams
+		a(href="#{thiswebcam.url}") #{thiswebcam.title}
+		, GMT #{thiswebcam.gmt}
+		br
+

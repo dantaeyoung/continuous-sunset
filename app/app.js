@@ -6,18 +6,13 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
 var mongoose = require('mongoose');
-require ('./models/webcams');
-var db = mongoose.connect('mongodb://localhost/continuous-sunset');
+mongoose.connect('mongodb://localhost/continuous-sunset');
+var db = mongoose.connection;
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
 var app = express();
-
-app.use(function(req,res,next){
-	req.db = db;
-	next();
-});
 
 
 // view engine setup
@@ -31,8 +26,15 @@ app.use(bodyParser.urlencoded());
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', routes);
-app.use('/users', users);
+
+/* separating semantics from function */
+app.get('/', routes.index);
+app.get('/helloworld', routes.helloworld);
+app.get('/webcamlist', routes.webcamlist);
+app.post('/submit', routes.submit_post);
+app.get('/submit', routes.submit);
+app.get('/gmt/:gmt', routes.gmt);
+//app.use('/users', users);
 
 /// catch 404 and forward to error handler
 app.use(function(req, res, next) {
