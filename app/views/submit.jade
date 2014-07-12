@@ -1,0 +1,21 @@
+extends layout
+
+block content
+	h1= title
+	p Submit a webcam pls!
+	form(id=submitrepo action="submit" method="post")
+		label Webcam Name:
+		input(type=text id="title" name="title")
+		br
+		label Description:
+		input(type=text id="description" name="description")
+		br
+		label URL:
+		input(type=text id="url" name="url")
+		br
+		label GMT Offset (ex. -5, 8, -10):
+		input(type=number id="gmt" name="gmt")
+		br
+		input(type="submit" value=submit)
+
+

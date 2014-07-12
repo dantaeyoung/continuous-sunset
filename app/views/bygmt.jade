@@ -1,0 +1,11 @@
+extends layout
+
+block content
+	h1= title
+	p Look at all the webcams here!
+	each thiswebcam, i in webcams
+		a(href="#{thiswebcam.url}") #{thiswebcam.title}
+		iframe(src="#{thiswebcam.url}")
+		, GMT #{thiswebcam.gmt}
+
+
