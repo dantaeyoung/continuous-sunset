@@ -1,8 +1,9 @@
 GMT -10
 http://www.earthcam.com/usa/hawaii/kauai/koloa/?cam=koloa
-http://livesurfcamhawaii.com/oahu/backdoor.html$a
-http://livesurfcamhawaii.com/oahu/rockypoint.htm$a
-http://livesurfcamhawaii.com/oahu/sunsetbeach.htm
+http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4751
+http://livesurfcamhawaii.com/oahu/backdoor.html
+http://livesurfcamhawaii.com/oahu/rockypoint.html
+http://livesurfcamhawaii.com/oahu/sunsetbeach.html
 
 GMT -8
 https://www.dropcam.com/live-demos/destinations/surf-cam-pro   
