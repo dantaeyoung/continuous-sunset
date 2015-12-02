@@ -1,18 +1,19 @@
 if Meteor.isClient
-  
-  # counter starts at 0
-  Session.setDefault "counter", 0
-  Template.hello.helpers counter: ->
-    Session.get "counter"
+	
+	# counter starts at 0
+	Session.setDefault "counter", 0
+	Template.hello.helpers counter: ->
+		Session.get "counter"
 
-  Template.hello.events "click button": ->
-    
-    # increment the counter when button is clicked
-    Session.set "counter", Session.get("counter") + 1
-    return
+	Template.hello.events
+		"click button": ->
+			# increment the counter when button is clicked
+			Session.set "counter", Session.get("counter") + 1
+			alert(webcams)
+			return
 
 if Meteor.isServer
-  Meteor.startup ->
+	Meteor.startup ->
 
 
 # code to run on server at startup
