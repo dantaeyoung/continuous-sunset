@@ -1,0 +1,4012 @@
+[
+
+  {
+    "location": "Miami, FL United States",
+    "title": "EarthCam: South Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach7",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Times Square Crossroads",
+    "url": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo3",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business,Education,Arts & Entertainment,News,Scenic,Society & People,Traffic,Weather"
+  },
+  {
+    "location": "Las Vegas, NV United States",
+    "title": "EarthCam: Elvis Wedding Chapel",
+    "url": "http://www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business,Arts & Entertainment,Society & People"
+  },
+  {
+    "location": "St. Louis, MO United States",
+    "title": "EarthCam: Eads Bridge Cam",
+    "url": "http://www.earthcam.com/usa/missouri/stlouis/?cam=eadsbridge",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: USS Intrepid at Statue of Liberty T...",
+    "url": "http://www.earthcam.com/usa/newyork/intrepid/index.php?cam=liberty_archives",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: USS Intrepid at World Trade Center ...",
+    "url": "http://www.earthcam.com/usa/newyork/intrepid/index.php?cam=gzrob_archives",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: USS Intrepid at Pier 86 Time-Lapse",
+    "url": "http://www.earthcam.com/usa/newyork/intrepid/index.php?cam=intrepid2_archives",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Virginia Beach, VA United States",
+    "title": "EarthCam: Virginia Beach Cam",
+    "url": "http://www.earthcam.com/usa/virginia/virginiabeach/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Barnes Bay,  Anguilla",
+    "title": "EarthCam: Anguilla Cam - Barnes Bay",
+    "url": "http://www.earthcam.com/world/anguilla/meadsbay/?cam=barnesbay",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Times Square 47th & Broadway",
+    "url": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,News,Scenic,Society & People,Traffic,Weather"
+  }
+,
+  {
+    "location": "St. Barthelemy,  French West Indies",
+    "title": "EarthCam: St. Barts Cam",
+    "url": "http://www.earthcam.com/frenchwestindies/stbarts/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Amsterdam,  Netherlands",
+    "title": "EarthCam: Amsterdam Cam",
+    "url": "http://www.earthcam.com/world/netherlands/amsterdam/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty Panorama Cam",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_pano",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Ellis Island",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_ellisisland",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty HarborCam",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty TorchCam",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Liberty Island, NY United States",
+    "title": "EarthCam: Statue of Liberty CrownCam",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_crown",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Doha,  Qatar",
+    "title": "EarthCam: Doha, Qatar Cam",
+    "url": "http://www.earthcam.com/world/qatar/doha/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Bali,  Indonesia",
+    "title": "EarthCam: Bali Elephant Cam Trail Path",
+    "url": "http://www.earthcam.com/indonesia/bali/?cam=bali1",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic"
+  },
+  {
+    "location": "Panama City, FL United States",
+    "title": "EarthCam: Panama City Cam",
+    "url": "http://www.earthcam.com/usa/florida/panamacity/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Hamburg,  Germany",
+    "title": "EarthCam: Hamburg Cam",
+    "url": "http://www.earthcam.com/world/germany/hamburg/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Vinita, OK United States",
+    "title": "EarthCam: Route 66 Cam - East View",
+    "url": "http://www.earthcam.com/usa/oklahoma/vinita/?cam=route66east",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Vinita, OK United States",
+    "title": "EarthCam: Route 66 Cam - WestView",
+    "url": "http://www.earthcam.com/usa/oklahoma/vinita/?cam=route66west",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Sedona, AZ United States",
+    "title": "EarthCam: Sedona Gateway Cam",
+    "url": "http://www.earthcam.com/usa/arizona/sedona/gateway/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: French Quarter Cams - Little Tropic...",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/frenchquarter/?cam=tilittle",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Traffic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_mp",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Seattle, WA United States",
+    "title": "EarthCam: Seattle Space Needle Cam",
+    "url": "http://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: New York City's East River",
+    "url": "http://www.earthcam.com/usa/newyork/midtown/skyline/?cam=eastriver_skyline",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Paterson, NJ United States",
+    "title": "EarthCam: Paterson Falls Cam",
+    "url": "http://www.earthcam.com/usa/newjersey/paterson/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: French Quarter Cams - Stage Cam",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/frenchquarter/?cam=tioriginal",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Traffic"
+  }
+,
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: French Quarter Cams - Bourbon Stree...",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/frenchquarter/?cam=tioutside",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Traffic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: French Quarter Cams - Bayou Club",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/frenchquarter/?cam=tibayouclub",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Traffic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: French Quarter Cams - Tropical Isle...",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/frenchquarter/?cam=tibourbon",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Traffic"
+  },
+  {
+    "location": "Hannibal, MO United States",
+    "title": "EarthCam: Mark Twain Cam",
+    "url": "http://www.earthcam.com/usa/missouri/hannibal/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Pasco, WA United States",
+    "title": "EarthCam: Washington Vineyard Cam",
+    "url": "http://www.earthcam.com/usa/washington/pasco/?cam=vineyard",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Fort Pierce, FL United States",
+    "title": "EarthCam: St. Lucie County Cams - Fort Pierce...",
+    "url": "http://www.earthcam.com/usa/florida/stluciecounty/?cam=stluciecounty_inlet",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Istanbul,  Turkey",
+    "title": "EarthCam: Istanbul Cam",
+    "url": "http://www.earthcam.com/world/turkey/istanbul/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Seaside Heights, NJ United States",
+    "title": "EarthCam: Seaside Heights Cam - South View",
+    "url": "http://www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Hrauneyjar,  Iceland",
+    "title": "EarthCam: Iceland Cam - Aurora Borealis View",
+    "url": "http://www.earthcam.com/world/iceland/hella/?cam=iceland_mp",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Niagara Falls,  Canada",
+    "title": "EarthCam: Niagara Falls - The Falls Cam",
+    "url": "http://www.earthcam.com/canada/niagarafalls/thefalls/?cam=niagarafalls2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Burlington, VT United States",
+    "title": "EarthCam: University of Vermont Cam",
+    "url": "http://www.earthcam.com/usa/vermont/burlington/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Fort Myers, FL United States",
+    "title": "EarthCam: Fort Myers Beach, The Palms",
+    "url": "http://www.earthcam.com/usa/florida/fortmyers/?cam=fort_myers_hd",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: New Orleans Bourbon Street",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=bourbonstreet",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Traffic"
+  },
+  {
+    "location": "Valletta,  Malta",
+    "title": "EarthCam: Malta Cam",
+    "url": "http://www.earthcam.com/world/malta/valletta/?cam=malta",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Puerto Natales,  Chile",
+    "title": "EarthCam: Patagonia Cam",
+    "url": "http://www.earthcam.com/chile/patagonia/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People,Sports & Recreation,Weather"
+  },
+  {
+    "location": "East St. Louis, MO United States",
+    "title": "EarthCam: St. Louis Arch Cam",
+    "url": "http://www.earthcam.com/usa/missouri/stlouis/?cam=arch_riverview",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Thanksgiving Parade - Aerial View",
+    "url": "http://www.earthcam.com/events/thanksgiving/2015/?cam=vornado_thanksgiving2015",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "McAllen, TX United States",
+    "title": "EarthCam: McAllen Holiday Parade",
+    "url": "http://www.earthcam.com/usa/texas/mcallen/?cam=mcallen_parade",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Naples, FL United States",
+    "title": "EarthCam: Naples Panorama Cam",
+    "url": "http://www.earthcam.com/usa/florida/naples/?cam=naples",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Pharr, TX United States",
+    "title": "EarthCam: City of Pharr Cam",
+    "url": "http://www.earthcam.com/usa/texas/pharr/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Miami, FL United States",
+    "title": "EarthCam: Ocean Drive Cam",
+    "url": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach8",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Meads Bay,  Anguilla",
+    "title": "EarthCam: Anguilla Cam - Aleta Pool",
+    "url": "http://www.earthcam.com/world/anguilla/meadsbay/?cam=aletapool",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "San Francisco, CA United States",
+    "title": "EarthCam: San Francisco Skyline Cam",
+    "url": "http://www.earthcam.com/usa/california/sanfrancisco/?cam=sanfranciscoskyline",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Austin, TX United States",
+    "title": "EarthCam: Austin Cam",
+    "url": "http://www.earthcam.com/usa/texas/austin/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Naples, FL United States",
+    "title": "EarthCam: Naples Panorama - Pier Cam",
+    "url": "http://www.earthcam.com/usa/florida/naples/?cam=naplespier",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Hillsboro Beach, FL United States",
+    "title": "EarthCam: Hillsboro Lighthouse Cam",
+    "url": "http://www.earthcam.com/usa/florida/hillsboro/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Venice Beach, CA United States",
+    "title": "EarthCam: Venice Beach Cam",
+    "url": "http://www.earthcam.com/usa/california/venicebeach/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Los Angeles, CA United States",
+    "title": "EarthCam: Hollywood Blvd Cam",
+    "url": "http://www.earthcam.com/usa/california/losangeles/hollywoodblvd/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Times Square Street Cam",
+    "url": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tsstreet",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,News,Scenic,Society & People,Traffic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: New Orleans Cats Meow Balcony",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=catsmeow2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Society & People"
+  }
+,
+  {
+    "location": "Billings, MT United States",
+    "title": "EarthCam: Montana Bear Cam",
+    "url": "http://www.earthcam.com/usa/montana/billings/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Las Vegas, NV United States",
+    "title": "EarthCam: Welcome to Fabulous Las Vegas",
+    "url": "http://www.earthcam.com/usa/nevada/lasvegas/index.php?cam=sign_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Chanhassen, MN United States",
+    "title": "EarthCam: Doggy Daycare Cam - The Barkyard",
+    "url": "http://www.earthcam.com/usa/minnesota/chanhassen/?cam=doggydaycare1",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Mears, MI United States",
+    "title": "EarthCam: Silver Lake Sand Dunes Cam",
+    "url": "http://www.earthcam.com/usa/michigan/mears/silverlake/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Maui, HI United States",
+    "title": "EarthCam: Maui Cam",
+    "url": "http://www.earthcam.com/usa/hawaii/maui/?cam=maui",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Sports & Recreation,Weather"
+  },
+  {
+    "location": "St. Petersburg, FL United States",
+    "title": "EarthCam: Florida Flight Cam",
+    "url": "http://www.earthcam.com/usa/florida/stpetersburg/?cam=stpeteair",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business,Scenic,Society & People"
+  },
+  {
+    "location": "Chobe,  Botswana",
+    "title": "EarthCam: Camp Kuzuma Cam",
+    "url": "http://www.earthcam.com/world/botswana/chobe/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic,Weather"
+  },
+  {
+    "location": "Miami, FL United States",
+    "title": "EarthCam: Miami Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach1",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Jersey City, NJ United States",
+    "title": "EarthCam: New York Skyline Cam HD",
+    "url": "http://www.earthcam.com/usa/newyork/skyline/?cam=hyatthd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic"
+  },
+  {
+    "location": "Greenville, SC United States",
+    "title": "EarthCam: Giraffe Cam Barn",
+    "url": "http://www.earthcam.com/usa/southcarolina/greenville/?cam=giraffe_int",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+,
+  {
+    "location": "Greenville, SC United States",
+    "title": "EarthCam: Giraffe Cam Paddock",
+    "url": "http://www.earthcam.com/usa/southcarolina/greenville/?cam=giraffe_ext",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Dead Sea,  Jordan",
+    "title": "EarthCam: Ma'in Hot Springs Cam",
+    "url": "http://www.earthcam.com/world/jordan/?cam=mainhotsprings",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Greenville, SC United States",
+    "title": "EarthCam: Giraffe Birth",
+    "url": "http://www.youtube.com/watch?v=B9KZTT-wmDI&feature=plcp",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Times Square South View",
+    "url": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,News,Society & People,Traffic"
+  },
+  {
+    "location": "Sanibel Island, FL United States",
+    "title": "EarthCam: Sanibel Island Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/sanibel/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Oranjestad,  Aruba",
+    "title": "EarthCam: Aruba Cam - Eagle Beach",
+    "url": "http://www.earthcam.com/world/aruba/eaglebeach/?cam=bucuti1",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Oranjestad,  Aruba",
+    "title": "EarthCam: Aruba Cam - Bucuti Beach Wing",
+    "url": "http://www.earthcam.com/world/aruba/eaglebeach/?cam=bucuti3",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: USS Intrepid at Liberty State Park ...",
+    "url": "http://www.earthcam.com/usa/newyork/intrepid/index.php?cam=libertysp_archives",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Wellford, SC United States",
+    "title": "EarthCam: Bear Cam",
+    "url": "http://www.earthcam.com/usa/southcarolina/wellford/?cam=bearcam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "San Francisco, CA United States",
+    "title": "EarthCam: San Francisco Bayfront Cam",
+    "url": "http://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Duluth, MN United States",
+    "title": "EarthCam: Lake Superior Cam",
+    "url": "http://www.earthcam.com/usa/minnesota/duluth/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Sunny Isles Beach, FL United States",
+    "title": "EarthCam: Sunny Isles Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Sarasota, FL United States",
+    "title": "EarthCam: Siesta Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/sarasota/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Times Square Bowtie",
+    "url": "http://www.earthcam.com/usa/newyork/timessquare/?cam=gped",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,News,Society & People,Traffic"
+  },
+  {
+    "location": "Amman,  Jordan",
+    "title": "EarthCam: Jordan Cams",
+    "url": "http://www.earthcam.com/world/jordan/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Aqaba,  Jordan",
+    "title": "EarthCam: Aqaba Cam",
+    "url": "http://www.earthcam.com/world/jordan/?cam=aqaba",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Boracay,  Philippines",
+    "title": "EarthCam: Boracay Island Cam",
+    "url": "http://www.earthcam.com/world/philippines/boracay/bulabogbay/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Sanibel Island, FL United States",
+    "title": "EarthCam: Sanibel Osprey Cam",
+    "url": "http://www.earthcam.com/usa/florida/sanibel/osprey/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Bali,  Indonesia",
+    "title": "EarthCam: Bali Elephant Cam Bathing Pool",
+    "url": "http://www.earthcam.com/indonesia/bali/?cam=bali2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty Harbor Cam - Nort...",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_harbor",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  }
+,
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty Pop Art Cam",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_popart",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Amman,  Jordan",
+    "title": "EarthCam: Amman Cam",
+    "url": "http://www.earthcam.com/world/jordan/?cam=amman",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Dublin,  Ireland",
+    "title": "EarthCam: Dublin Pub Cam",
+    "url": "http://www.earthcam.com/world/ireland/dublin/?cam=templebar",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Traffic"
+  },
+  {
+    "location": "Amman,  Jordan",
+    "title": "EarthCam: Amman Citadel Cam",
+    "url": "http://www.earthcam.com/world/jordan/?cam=citadel",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Scranton, PA United States",
+    "title": "EarthCam: Steamtown Cam",
+    "url": "http://www.earthcam.com/usa/pennsylvania/scranton/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Scenic"
+  },
+  {
+    "location": "Bangkok,  Thailand",
+    "title": "EarthCam: Bangkok Cam",
+    "url": "http://www.earthcam.com/world/thailand/bangkok/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Budapest,  Hungary",
+    "title": "EarthCam: Budapest Cam",
+    "url": "http://www.earthcam.com/world/hungary/budapest/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Traffic"
+  },
+  {
+    "location": "Sydney,  Australia",
+    "title": "EarthCam: Sydney Cam",
+    "url": "http://www.earthcam.com/world/australia/sydney/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Petra,  Jordan",
+    "title": "EarthCam: Petra Cam",
+    "url": "http://www.earthcam.com/world/jordan/?cam=petra",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Midtown NYC Skyline Cam - Empire St...",
+    "url": "http://www.earthcam.com/usa/newyork/midtown/skyline/?cam=skyline_midtown",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business,Education,Arts & Entertainment,News,Scenic,Society & People,Traffic,Weather"
+  }
+,
+  {
+    "location": "Phoenix, AZ United States",
+    "title": "EarthCam: Fish Bowl II",
+    "url": "http://www.earthcam.com/events/fishbowl/2015/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Arts & Entertainment,Sports & Recreation,Weird & Bizarre"
+  },
+  {
+    "location": "London,  England",
+    "title": "Beatles Abbey Road Crossing",
+    "url": "http://www.earthcam.com/world/england/london/abbeyroad/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,News,Society & People"
+  },
+  {
+    "location": "Gaylord, MI United States",
+    "title": "EarthCam: Michigan Snowman Cam",
+    "url": "http://www.earthcam.com/usa/michigan/gaylord/snowman/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Weather"
+  },
+  {
+    "location": "Santa Fe, NM United States",
+    "title": "EarthCam: Santa Fe Cam",
+    "url": "http://www.earthcam.com/usa/newmexico/santafe/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Upper Saddle River, NJ United States",
+    "title": "EarthCam Headquarters",
+    "url": "http://www.earthcamhq.com",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business,Scenic"
+  },
+  {
+    "location": "Florence, AL United States",
+    "title": "EarthCam: Lion's Den Cam",
+    "url": "http://www.earthcam.com/usa/alabama/florence/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Society & People"
+  },
+  {
+    "location": "Grand Haven, MI United States",
+    "title": "EarthCam: Lake Michigan Cam",
+    "url": "http://www.earthcam.com/usa/michigan/grandhaven/lakemichigan/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Chicago, IL United States",
+    "title": "EarthCam: Wrigley Field Cam",
+    "url": "http://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Pembroke,  Bermuda",
+    "title": "EarthCam: Bermuda Cam",
+    "url": "http://www.earthcam.com/world/bermuda/pembroke/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Meads Bay,  Anguilla",
+    "title": "EarthCam: Anguilla Cam",
+    "url": "http://www.earthcam.com/world/anguilla/meadsbay/?cam=meadsbay_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Kiawah Island, SC United States",
+    "title": "EarthCam: Kiawah Island Beach",
+    "url": "http://www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawahisland",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: World Trade Center 10 Year Time-Lap...",
+    "url": "http://www.earthcam.com/usa/newyork/worldtradecenter/?cam=wtc_tl",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Brooklyn Bridge",
+    "url": "http://www.earthcam.com/usa/newyork/brooklynbridge/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Seaside Heights, NJ United States",
+    "title": "EarthCam: Seaside Heights Cam - North View",
+    "url": "http://www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Miami, FL United States",
+    "title": "EarthCam: Miami Biscayne Bay Cam",
+    "url": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach4",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty Harbor Cam - East...",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_harbor2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Miami, FL United States",
+    "title": "EarthCam: Downtown Miami",
+    "url": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach5",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Moscow,  Russian Federation",
+    "title": "EarthCam: Moscow Skyline Cam",
+    "url": "http://www.earthcam.com/world/russia/moscow/?cam=moscow_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Charging Bull Cam",
+    "url": "http://www.earthcam.com/usa/newyork/wallstreet/chargingbull/?cam=chargingbull_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Miami, FL United States",
+    "title": "EarthCam: Lincoln Road",
+    "url": "http://www.earthcam.com/usa/florida/miami/?cam=miamatechvw1",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  }
+,
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: Cats Meow Karaoke",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=catsmeowkaraoke",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Society & People"
+  },
+  {
+    "location": "Paris,  France",
+    "title": "EarthCam: Eiffel Tower Cam",
+    "url": "http://www.earthcam.com/world/france/paris/?cam=eiffeltower",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Lauderdale-By-The-Sea, FL United States",
+    "title": "EarthCam: Lauderdale-By-The-Sea Cam",
+    "url": "http://www.earthcam.com/usa/florida/lauderdalebythesea/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Boracay,  Philippines",
+    "title": "EarthCam: Boracay Cam",
+    "url": "http://www.earthcam.com/world/philippines/boracay/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Thassos,  Greece",
+    "title": "EarthCam: Thassos, Greece",
+    "url": "http://www.earthcam.com/greece/thassos/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Paris,  France",
+    "title": "EarthCam: Eiffel Tower Streaming Cam",
+    "url": "http://www.earthcam.com/world/france/paris/?cam=eiffeltower_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Omaha, NE United States",
+    "title": "EarthCam: Omaha Falcon Cam",
+    "url": "http://www.earthcam.com/usa/nebraska/omaha/falconcam/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Statue of Liberty Streaming",
+    "url": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_str",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Prague,  Czech Republic",
+    "title": "EarthCam: Prague Cam",
+    "url": "http://www.earthcam.com/czechrepublic/prague/?cam=grandhotel_str",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  },
+  {
+    "location": "Niagara Falls,  Canada",
+    "title": "EarthCam: Niagara Falls Cam - Panorama View",
+    "url": "http://www.earthcam.com/canada/niagarafalls/?cam=niagarafalls_str",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "New York, NY United States",
+    "title": "EarthCam: 5th Avenue Cam",
+    "url": "http://www.earthcam.com/usa/newyork/fifthave/?cam=nyc5th_str",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Kiawah Island, SC United States",
+    "title": "EarthCam: Kiawah Island Golf Cam",
+    "url": "http://www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawah_island_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Cambridge, MA United States",
+    "title": "EarthCam: Boston Cam",
+    "url": "http://www.earthcam.com/usa/massachusetts/boston/?cam=boston_hd",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "EarthCam: Bourbon Street Panorama",
+    "url": "http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=catsmeow2_pano",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Society & People"
+  },
+  {
+    "location": "San Juan,  Puerto Rico",
+    "title": "EarthCam: San Juan Cam - Beach View",
+    "url": "http://www.earthcam.com/usa/puertorico/sanjuan/?cam=sanjuan1",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "San Juan,  Puerto Rico",
+    "title": "EarthCam: San Juan Cam - Aerial View",
+    "url": "http://www.earthcam.com/usa/puertorico/sanjuan/?cam=sanjuan3",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "New York, NY United States",
+    "title": "EarthCam: St. Patrick's Day Parade 2012",
+    "url": "http://www.earthcam.com/events/stpats/2012/?cam=nyc5th_stpats2012_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Negril,  Jamaica",
+    "title": "EarthCam: Jamaica Cam",
+    "url": "http://www.earthcam.com/world/jamaica/negril/?cam=rickscafe",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  },
+  {
+    "location": "Kauai, HI United States",
+    "title": "EarthCam: Kauai Cam",
+    "url": "http://www.earthcam.com/usa/hawaii/kauai/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Cluj-Napoca,  Romania",
+    "title": "EarthCam: Transylvania Cam",
+    "url": "http://www.earthcam.com/world/romania/transylvania/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Belmont, NC United States",
+    "title": "EarthCam: Belmont Cam",
+    "url": "http://www.earthcam.com/usa/northcarolina/belmont/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Essex, MA United States",
+    "title": "EarthCam: Essex Osprey Cam",
+    "url": "http://www.earthcam.com/usa/massachusetts/essex/?cam=essex_osprey",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: One World Trade Center Spire Time-L...",
+    "url": "http://www.youtube.com/watch?v=_hzGkh1JfUw",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic"
+  },
+  {
+    "location": "Boynton Beach, FL United States",
+    "title": "EarthCam: Burrowing Owl Cam",
+    "url": "http://www.earthcam.com/usa/florida/browardcounty/?cam=burrowingowl",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Seaside Heights, NJ United States",
+    "title": "EarthCam: Seaside Heights Boardwalk Time-Laps...",
+    "url": "http://www.youtube.com/watch?v=ovliNBwTZrQ",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic"
+  },
+  {
+    "location": "Koloa, HI United States",
+    "title": "EarthCam: Hawaii Surf Cam",
+    "url": "http://www.earthcam.com/usa/hawaii/kauai/koloa/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Jerusalem,  Israel",
+    "title": "EarthCam: Western Wall Interactive Panorama",
+    "url": "http://www.earthcam.com/world/israel/jerusalem/?content=panorama",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Destin, FL United States",
+    "title": "EarthCam: Destin Cam",
+    "url": "http://www.earthcam.com/usa/florida/destin/?cam=destin",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Playa Grande,  Costa Rica",
+    "title": "EarthCam: Costa Rica Cam",
+    "url": "http://www.earthcam.com/world/costarica/playagrande/?cam=playagrande",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Bognor Regis,  United Kingdom",
+    "title": "EarthCam: Bognor Regis Cam",
+    "url": "http://www.earthcam.com/world/uk/bognorregis/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Gettysburg, PA United States",
+    "title": "EarthCam: Gettysburg Battlefield Cam",
+    "url": "http://www.earthcam.com/usa/pennsylvania/gettysburg/?cam=gettysburg",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Scenic"
+  },
+  {
+    "location": "Las Vegas, NM United States",
+    "title": "EarthCam: Las Vegas, New Mexico Cam",
+    "url": "http://www.earthcam.com/usa/newmexico/lasvegas/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Midtown NYC Skyline Cam",
+    "url": "http://www.earthcam.com/usa/newyork/midtown/skyline/?cam=manhattan_skyline",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business,Education,Arts & Entertainment,News,Scenic,Society & People,Traffic,Weather"
+  },
+  {
+    "location": "Seaside Park, NJ United States",
+    "title": "EarthCam: Seaside Park Cam",
+    "url": "http://www.earthcam.com/usa/newjersey/seasidepark/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Sedona, AZ United States",
+    "title": "EarthCam: Sedona Red Rock Cam",
+    "url": "http://www.earthcam.com/usa/arizona/sedona/redrock/?cam=sedona_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Bethel Park, PA United States",
+    "title": "EarthCam: Andy Warhol FigmentCam",
+    "url": "http://www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/?cam=warhol_figmentstream",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Society & People"
+  },
+  {
+    "location": "Pittsburgh, PA United States",
+    "title": "EarthCam: ChurchCam",
+    "url": "http://www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/?cam=warhol_churchcam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Society & People"
+  },
+  {
+    "location": "Hella,  Iceland",
+    "title": "EarthCam: Iceland Cam",
+    "url": "http://www.earthcam.com/world/iceland/hella/?cam=iceland_hd",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Destin, FL United States",
+    "title": "EarthCam: Sandestin Beach",
+    "url": "http://www.earthcam.com/usa/florida/destin/sandestinbeach/?cam=sandestin",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Mulberry Street Cam",
+    "url": "http://www.earthcam.com/usa/newyork/littleitaly/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  }
+,
+  {
+    "location": "Negril,  Jamaica",
+    "title": "Rick's Cafe Jamaica",
+    "url": "http://www.rickscafejamaica.com/rickslive.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  },
+  {
+    "location": "Snyder, TX United States",
+    "title": "EarthCam: Snyder, TX Cam",
+    "url": "http://www.earthcam.com/usa/texas/snyder/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Bethel Park, PA United States",
+    "title": "EarthCam: Warhol FigmentCams",
+    "url": "http://www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Society & People"
+  },
+  {
+    "location": "Amman,  Jordan",
+    "title": "Jordan Tourism Board - Jordan Cams",
+    "url": "http://visitjordan.com/earthcam/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Los Angeles, CA United States",
+    "title": "EarthCam: Marina del Rey Cam",
+    "url": "http://www.earthcam.com/usa/california/losangeles/marinadelrey/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Pagosa Springs, CO United States",
+    "title": "EarthCam: Wolf Creek Ski Cam",
+    "url": "http://www.earthcam.com/usa/colorado/pagosasprings/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Algonquin Park,  Canada",
+    "title": "EarthCam: Algonquin Park Cam",
+    "url": "http://www.earthcam.com/world/canada/ontario/algonquinpark/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "El Paso, TX United States",
+    "title": "EarthCam: El Paso, TX Cam",
+    "url": "http://www.earthcam.com/usa/texas/elpaso/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Daytona, FL United States",
+    "title": "EarthCam: Daytona Cam",
+    "url": "http://www.earthcam.com/usa/florida/daytona/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Allentown, PA United States",
+    "title": "EarthCam: Allentown Falcon Cam",
+    "url": "http://www.earthcam.com/usa/pennsylvania/allentown/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Scenic"
+  }
+,
+  {
+    "location": "Jerusalem,  Israel",
+    "title": "EarthCam: Western Wall Cam",
+    "url": "http://www.earthcam.com/world/israel/jerusalem/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Santa Monica, CA United States",
+    "title": "EarthCam: Santa Monica Cam",
+    "url": "http://www.earthcam.com/usa/california/santamonica/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Dubai,  United Arab Emirates",
+    "title": "EarthCam: Atlantis, The Palm - Dubai Skyline",
+    "url": "http://www.earthcam.com/world/uae/dubai/atlantisthepalm/?cam=atlantis1",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Dubai,  United Arab Emirates",
+    "title": "EarthCam: Atlantis, The Palm - Hotel and Reso...",
+    "url": "http://www.earthcam.com/world/uae/dubai/atlantisthepalm/?cam=atlantis2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Fort Myers, FL United States",
+    "title": "EarthCam: Fort Myers Beach, Aerial View",
+    "url": "http://www.earthcam.com/usa/florida/fortmyers/?cam=fort_myers_gullwing",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Oak Harbor, WA United States",
+    "title": "EarthCam: Oak Harbor Cam",
+    "url": "http://www.earthcam.com/usa/washington/oakharbor/?cam=oakharbor",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Rio de Janeiro,  Brazil",
+    "title": "EarthCam: Rio de Janeiro Cam - Copacabana Sou...",
+    "url": "http://www.earthcam.com/brazil/riodejaneiro/?cam=rio_copacabana",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Sandy Hook, NJ United States",
+    "title": "EarthCam: Sandy Hook Cams - Harbor View",
+    "url": "http://www.earthcam.com/usa/newjersey/sandyhook/?cam=sandyhook_east",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  },
+  {
+    "location": "Sandy Hook, NJ United States",
+    "title": "EarthCam: Sandy Hook Cams - Fort View",
+    "url": "http://www.earthcam.com/usa/newjersey/sandyhook/?cam=sandyhook_west",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  },
+  {
+    "location": "Sandy Hook, NJ United States",
+    "title": "EarthCam: Sandy Hook Cams - NYC View",
+    "url": "http://www.earthcam.com/usa/newjersey/sandyhook/?cam=sandyhook_north",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  }
+,
+  {
+    "location": "Sandy Hook, NJ United States",
+    "title": "EarthCam: Sandy Hook Cams - Lighthouse View",
+    "url": "http://www.earthcam.com/usa/newjersey/sandyhook/?cam=sandyhook_south",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Scenic,Society & People"
+  },
+  {
+    "location": "La Porte, TX United States",
+    "title": "EarthCam: San Jacinto Monument Cam",
+    "url": "http://www.earthcam.com/usa/texas/laporte/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Treasure Island, FL United States",
+    "title": "EarthCam: Sunset Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/treasureisland/sunsetbeach/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Brighton, MI United States",
+    "title": "EarthCam: Michigan Mill Pond Cam",
+    "url": "http://www.earthcam.com/usa/michigan/brighton/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Baltimore, MD United States",
+    "title": "EarthCam: Fort McHenry Cam - Rampart View",
+    "url": "http://www.earthcam.com/usa/maryland/baltimore/fortmchenry/?cam=fortmchenry1",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Scenic"
+  },
+  {
+    "location": "Baltimore, MD United States",
+    "title": "EarthCam: Fort McHenry Cam - Fort View",
+    "url": "http://www.earthcam.com/usa/maryland/baltimore/fortmchenry/?cam=fortmchenry2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "St. Lucie County, FL United States",
+    "title": "EarthCam: St. Lucie County Cams - River View",
+    "url": "http://www.earthcam.com/usa/florida/stluciecounty/?cam=stluciecounty_river",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "St. Lucie County, FL United States",
+    "title": "EarthCam: St. Lucie County Cams - Pier and Ma...",
+    "url": "http://www.earthcam.com/usa/florida/stluciecounty/?cam=stluciecounty_pedpier",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "San Francisco, CA United States",
+    "title": "EarthCam: San Francisco Skyline Panorama",
+    "url": "http://www.earthcam.com/usa/california/sanfrancisco/?content=panorama2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Cavalier, ND United States",
+    "title": "EarthCam: City of Cavalier Cam",
+    "url": "http://www.earthcam.com/usa/northdakota/cavalier/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People,Traffic"
+  }
+,
+  {
+    "location": "Jackson, WY United States",
+    "title": "EarthCam: Jackson Hole Cam",
+    "url": "http://www.earthcam.com/usa/wyoming/jackson/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People,Traffic"
+  },
+  {
+    "location": "Manalapan, FL United States",
+    "title": "EarthCam: Palm Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/manalapan/palmbeach/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Oranjestad,  Aruba",
+    "title": "EarthCam: Aruba Cam - Druif Beach",
+    "url": "http://www.earthcam.com/world/aruba/druifbeach/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Dallas, TX United States",
+    "title": "EarthCam: Reunion Tower Cam",
+    "url": "http://www.earthcam.com/usa/texas/dallas/reuniontower/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "Breckenridge, CO United States",
+    "title": "EarthCam: Breckenridge Ski Cam",
+    "url": "http://www.earthcam.com/usa/colorado/breckenridge/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Notre Dame, IN United States",
+    "title": "EarthCam: Notre Dame Cam",
+    "url": "http://www.earthcam.com/usa/indiana/notredame/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Scenic,Society & People,Weather"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Saint Nicholas National Shrine Cam",
+    "url": "http://www.earthcam.com/usa/newyork/saintnicholas/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Washington, DC United States",
+    "title": "EarthCam: National Park Service Cams",
+    "url": "http://www.earthcam.com/usa/nationalparkservice/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Scenic,Weather"
+  },
+  {
+    "location": "St. Paul, MN United States",
+    "title": "EarthCam: Saint Paul Cam",
+    "url": "http://www.earthcam.com/usa/minnesota/saintpaul/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Frederick, MD United States",
+    "title": "TankedCAM - The Interactive FishCam",
+    "url": "http://www.myearthcam.com/wavejam",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+,
+  {
+    "location": "Moncton,  Canada",
+    "title": "MonctonCam",
+    "url": "http://www.myearthcam.com/monctonmainst",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Shawnee, OK United States",
+    "title": "Double Dot Ranch & Donkey Resort",
+    "url": "http://myearthcam.com/donkeycam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "ada, OH United States",
+    "title": "Markoh Cam",
+    "url": "http://www.myearthcam.com/markoh",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Greater London,  England",
+    "title": "Barking WebCam",
+    "url": "http://www.myearthcam.com/barking",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Austin, TX United States",
+    "title": "Labradoodle Puppies",
+    "url": "http://myearthcam.com/austinminilabradoodles",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Capoterra,  Italy",
+    "title": "Sharpei Puppies",
+    "url": "http://www.myearthcam.com/sharpeicagliari",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Porvoo,  Finland",
+    "title": "Pahinperhe Cam",
+    "url": "http://www.myearthcam.com/pahinperhe",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Kartveit,  Norway",
+    "title": "Bergen Fishing Port",
+    "url": "http://www.myearthcam.com/sildefabrikken",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Haren,  Netherlands",
+    "title": "Jeexgame 3D Printer Cam",
+    "url": "http://myearthcam.com/jeexgame",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Computer,Society & People"
+  },
+  {
+    "location": "Belo Horizonte,  Brazil",
+    "title": "Golden Society Kennel",
+    "url": "http://myearthcam.com/goldensocietykennel",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+,
+  {
+    "location": "West Bend, WI United States",
+    "title": "Lazy Days Campground",
+    "url": "http://www.myearthcam.com/lzd",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "North Bellmore, NY United States",
+    "title": "Bellmoreny Weather Cam",
+    "url": "http://myearthcam.com/bellmoreny",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Albany, NY United States",
+    "title": "Kiwi's Web Cam",
+    "url": "http://myearthcam.com/dedeskiwi",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Eastland, TX United States",
+    "title": "Chuck's Texas Cam Page",
+    "url": "http://myearthcam.com/chukers",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Mantoloking, NJ United States",
+    "title": "Brave New World Surfcam",
+    "url": "http://www.myearthcam.com/bravesurfcam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Sports & Recreation"
+  },
+  {
+    "location": "Plombieres,  Belgium",
+    "title": "Radio Magic",
+    "url": "http://myearthcam.com/rme",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Albuquerque, NM United States",
+    "title": "Southwest Akitas Live Puppycam",
+    "url": "http://www.southwestakitas.com/AvailablePups.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Bucaramanga,  Colombia",
+    "title": "Bucaramanga Web Cam",
+    "url": "http://www.myearthcam.com/dirkelozado",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Middlesbrough,  United Kingdom",
+    "title": "Boro Garden Middlesbrough",
+    "url": "http://www.myearthcam.com/borogarden",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Weather"
+  },
+  {
+    "location": "Sun Lakes, AZ United States",
+    "title": "Milobramble Webcam",
+    "url": "http://myearthcam.com/milobramble",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+,
+  {
+    "location": "Louisville, KY United States",
+    "title": "Teruji's USWP/USWP webcam page",
+    "url": "http://www.myearthcam.com/teruji",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People,Weather"
+  },
+  {
+    "location": "Sheffield,  England",
+    "title": "Lamburt the Gecko",
+    "url": "http://www.myearthcam.com/gecko",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "NY United States",
+    "title": "Upstate New York BirdCam",
+    "url": "http://www.myearthcam.com/upstateny",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Boca Raton, FL United States",
+    "title": "Bearded Dragon Cam",
+    "url": "http://www.myearthcam.com/dragoncam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Beachwood, NJ United States",
+    "title": "Storm The Labrador Cam",
+    "url": "http://www.myearthcam.com/1301",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Republic, WA United States",
+    "title": "Rose Valley Ridgetop",
+    "url": "http://myearthcam.com/rosevalleycam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Hannover,  Germany",
+    "title": "Hannover-TV & Radio",
+    "url": "http://myearthcam.com/hannovertvundradio",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Traffic"
+  },
+  {
+    "location": "Worthing Beach,  Barbados",
+    "title": "Worthing Beach, Barbados",
+    "url": "http://myearthcam.com/hochatbeach",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "London,  United Kingdom",
+    "title": "Niks Chicks",
+    "url": "http://myearthcam.com/nikschicks",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Calgary,  Canada",
+    "title": "Hughes on Tenth Art Classes & Gallery",
+    "url": "http://myearthcam.com/hughesontenth",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Society & People"
+  }
+,
+  {
+    "location": "Rio de Janeiro,  Brazil",
+    "title": "Cristo Redentor, Vista de Laranjeiras",
+    "url": "http://www.myearthcam.com/angelim",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Key Largo, FL United States",
+    "title": "Driveway Cam",
+    "url": "http://www.myearthcam.com/keylargojohn",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Tampere,  Finland",
+    "title": "Sacred Birman Kittens",
+    "url": "http://www.myearthcam.com/tamus",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Running Springs,  United States",
+    "title": "Running Springs Cabin",
+    "url": "http://myearthcam.com/easy",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Raleigh, NC United States",
+    "title": "Willow Springs Havanese and Labradors",
+    "url": "http://myearthcam.com/raleighhavanese",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Ft. Lauderdale, FL United States",
+    "title": "BostonMike Ft. Lauderdale Cam",
+    "url": "http://myearthcam.com/bostonmike",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Saint Petersburg,  Russian Federation",
+    "title": "Saint Petersburg",
+    "url": "http://myearthcam.com/prokofev",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Nottingham,  United Kingdom",
+    "title": "Boot Island",
+    "url": "http://myearthcam.com/notttinghamisland",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Traffic"
+  },
+  {
+    "location": "Da Nang,  Viet Nam",
+    "title": "Da Nang Street View",
+    "url": "http://myearthcam.com/danangstreetview",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People,Weather"
+  },
+  {
+    "location": "Göteborg,  Sweden",
+    "title": "Goteborg Cam",
+    "url": "http://www.myearthcam.com/farjenas/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  }
+,
+  {
+    "location": "Calvert City, KY United States",
+    "title": "Les's Live Landscape Cam",
+    "url": "http://www.myearthcam.com/lesweatherplantlink",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "parkersburg, WV United States",
+    "title": "This 'n That Shop",
+    "url": "http://www.myearthcam.com/thisnthatshop",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Traffic"
+  },
+  {
+    "location": "Randolph, VT United States",
+    "title": "VT Scenes",
+    "url": "http://myearthcam.com/vtscenes",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic"
+  },
+  {
+    "location": "Houston, TX United States",
+    "title": "Houston Skyline",
+    "url": "http://myearthcam.com/js2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Miami, FL United States",
+    "title": "Hotspot Cam",
+    "url": "http://www.myearthcam.com/hotspots",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People"
+  },
+  {
+    "location": "London,  United Kingdom",
+    "title": "Keyhole Cam",
+    "url": "http://www.myearthcam.com/open",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Weird & Bizarre"
+  },
+  {
+    "location": "Plombieres,  Belgium",
+    "title": "Plombieres Town Cam",
+    "url": "http://myearthcam.com/plombieres",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Traffic"
+  },
+  {
+    "location": "Estes Park, CO United States",
+    "title": "Rocky Mountain Bird Feeder Cam",
+    "url": "http://myearthcam.com/rockymountainbirdfeeder",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic"
+  },
+  {
+    "location": "wynne, AR United States",
+    "title": "Country 89.1 Outside View",
+    "url": "http://www.myearthcam.com/crrradio",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Sarasota, FL United States",
+    "title": "BiscuitCam",
+    "url": "http://myearthcam.com/biscuitsplaypen",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+,
+  {
+    "location": "Castries,  Saint Lucia",
+    "title": "Rodney Bay Skyline",
+    "url": "http://myearthcam.com/bonneterre",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Youngstown, NY United States",
+    "title": "Lake Ontario",
+    "url": "http://myearthcam.com/lakeontariocam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Ramat Gan,  Israel",
+    "title": "Tel Aviv Webcam",
+    "url": "http://myearthcam.com/webcamtelaviv",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "South Padre Isla, TX United States",
+    "title": "South Padre Real Live Beach and Bay Cams",
+    "url": "http://www.myearthcam.com/southpadrelive/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Southampton,  Great Britain",
+    "title": "Aldermoor Green Weather Cam",
+    "url": "http://www.myearthcam.com/mixmasters",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Driggs, ID United States",
+    "title": "Teton Valley Weather",
+    "url": "http://myearthcam.com/tetonmason",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Denizli,  Turkey",
+    "title": "Denizli Park Cam",
+    "url": "http://www.myearthcam.com/denizlikenti",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Clinton, UT United States",
+    "title": "Chick Hatchery",
+    "url": "http://www.myearthcam.com/acaptivechicken",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Toronto,  Canada",
+    "title": "Budgie Cam",
+    "url": "http://www.myearthcam.com/zeddy",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Lehi, UT United States",
+    "title": "Lehi - Ivory Ridge",
+    "url": "http://www.myearthcam.com/lehi",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  }
+,
+  {
+    "location": "Paw Paw, IL United States",
+    "title": "Paw Paw (Illinois) LIVE!",
+    "url": "http://www.myearthcam.com/pawpawlive",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Mexico City,  Mexico",
+    "title": "Mexico City",
+    "url": "http://www.myearthcam.com/grupocentral",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "La Garde Adhèmar,  France",
+    "title": "Garden & Sharpei Cam",
+    "url": "http://www.myearthcam.com/robertchristison",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic"
+  },
+  {
+    "location": "Knoxville, TN United States",
+    "title": "Knoxville Tennessee (East)",
+    "url": "http://www.myearthcam.com/knoxvilletneast",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Traffic"
+  },
+  {
+    "location": "Emsworth,  England",
+    "title": "An English Community Green",
+    "url": "http://www.myearthcam.com/thegreen",
+    "cam_type": "Quicktime",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Milo, ME United States",
+    "title": "Little Bear Canoe Company",
+    "url": "http://myearthcam.com/littlebearcanoes",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business,Society & People"
+  },
+  {
+    "location": "Waterford,  Ireland",
+    "title": "Waterford Ireland webcam",
+    "url": "http://www.myearthcam.com/waterford",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Woodhaven, MI United States",
+    "title": "Weiss Salmon Project",
+    "url": "http://myearthcam.com/bouwman",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Arts & Entertainment"
+  },
+  {
+    "location": "Nottingham,  United Kingdom",
+    "title": "View From A Nottingham Bedroom Window ",
+    "url": "http://www.myearthcam.com/viewnottingham",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Traffic,Weather"
+  },
+  {
+    "location": "Lake, MI United States",
+    "title": "Lake George Michigan",
+    "url": "http://www.myearthcam.com/lakegeorgemi",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  }
+,
+  {
+    "location": "Gendt,  Netherlands",
+    "title": "TropicBirds Cam",
+    "url": "http://myearthcam.com/tropicbirds3",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Penticton,  Canada",
+    "title": "Lakeside Villa Motel",
+    "url": "http://www.myearthcam.com/pentictonlakesidevillamotel",
+    "cam_type": "MPEG-4",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Chillicothe, OH United States",
+    "title": "Hopetown House Studio",
+    "url": "http://www.myearthcam.com/hopetownhousestudio",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Detroit, MI United States",
+    "title": "Detroit - iNewsPhoto Office",
+    "url": "http://www.myearthcam.com/inewsphoto",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Space & Science"
+  },
+  {
+    "location": "Cohoes, NY United States",
+    "title": "Cohoes Falls ",
+    "url": "http://www.myearthcam.com/joshuaabell",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New Orleans, LA United States",
+    "title": "French Quarter Cam",
+    "url": "http://www.nola.com/quartercam/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Taipei,  Taiwan",
+    "title": "Foothill Park Webcam",
+    "url": "http://www.ymsnp.gov.tw/web/travel10b.aspx",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Allen, TX United States",
+    "title": "Heart Beat Radio Cam",
+    "url": "http://www.heartbeatofflagler.com/HeartbeatStream.htm",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Douarnenez,  France",
+    "title": "Douarnenez Bay Cam",
+    "url": "http://www.bzh-boutique.fr/fr/content/71-webcam-en-streaming",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Szeged,  Hungary",
+    "title": "Dugonics Square",
+    "url": "http://pontmost.hu/index.php?option=com_content&view=article&id=143:uj-webkamerank-dugonics-ter-karasz-utca&catid=1:webkamera-szeged-webcam&Itemid=12",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  }
+,
+  {
+    "location": "Pulaski, NY United States",
+    "title": "Salmon River NY Webcam",
+    "url": "http://www.flyty.com/srwc",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,Sports & Recreation,Weather"
+  },
+  {
+    "location": "Truro,  England",
+    "title": "King Harry Ferry Cam",
+    "url": "http://www.checkitlive.com/camera/941",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Traffic"
+  },
+  {
+    "location": "London,  England",
+    "title": "Tower Bridge Cam",
+    "url": "http://www.visitlondon.com/discover-london/tower-bridge-webcam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "New York, NY United States",
+    "title": "MicroscopeCam",
+    "url": "http://www.under-microscope.com/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weird & Bizarre"
+  },
+  {
+    "location": "Cairns,  Australia",
+    "title": "Skyrail Webcam",
+    "url": "http://www.skyrail.com.au/webcam",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Solden,  Austria",
+    "title": "Obergurgel Webcam",
+    "url": "http://www.hotel-obergurgl.at/en-hotel_tyrol-webcam_tyrol_obergurgl.shtml",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Baldwin, MI United States",
+    "title": "Pere Marquette River",
+    "url": "http://redmooselodgebaldwin.axiscam.net:5700/view/index.shtml",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Sports & Recreation,Weather"
+  },
+  {
+    "location": "Palmerton, PA United States",
+    "title": "Blue Mountain Resort",
+    "url": "http://www.skibluemt.com/SkiBlue/the-mountain/mountain-cams.aspx",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Abrantes,  Portugal",
+    "title": "Abrantes, Portugal",
+    "url": "http://meteoabrantes.no-ip.info",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Matlacha, FL United States",
+    "title": "Berts Bar and Grill on Matlacha",
+    "url": "http://www.capeweather.com/berts-bar-grill-webcam.html",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Porto San Giorgio,  Italy",
+    "title": "Porto San Giorgio",
+    "url": "http://www.lostorione.it/webcam.asp",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Keyport, NJ United States",
+    "title": "Fishcams",
+    "url": "http://www.fishcams.net/fishcam/FishCam1.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Boise, ID United States",
+    "title": "Roaring Springs Waterpark Webcam",
+    "url": "http://www.roaringsprings.com/public/park/webcam/index.cfm",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Vatican,  Italy",
+    "title": "Vatican City Webcam",
+    "url": "http://www.atlantestarhotel.com/webcam.htm",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Thanksgiving Parade 2015 Webcast",
+    "url": "http://www.earthcam.com/events/thanksgiving/2015/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Amot,  Sweden",
+    "title": "Stilleben, Amotsbruk, Sweden",
+    "url": "http://www.stilleben.nu/#!webcam/c1x6v",
+    "cam_type": "MPEG-4",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Sports & Recreation,Weather"
+  },
+  {
+    "location": "Botswana,  Botswana",
+    "title": "AfriCam",
+    "url": "http://www.africam.com/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Tinos,  Greece",
+    "title": "Tinos Weather Cams",
+    "url": "http://www.vincenzo.gr/tinos",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Ipswich, MA United States",
+    "title": "Playful Pack LIVE Webcams",
+    "url": "http://sites.google.com/site/northshoredogcare/webcams",
+    "cam_type": "Real Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Paros,  Greece",
+    "title": "Paros, Parikia port webcam",
+    "url": "http://www.parosweb.com/paros-webcams/parikia_port.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Torquay,  England",
+    "title": "TORQUAY ENGLAND WEBCAM",
+    "url": "http://www.torquaywebcam.com",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "St. Louis, MO United States",
+    "title": "Washington University in St. Louis",
+    "url": "http://www.wustl.edu/webcam/",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  },
+  {
+    "location": "Rio Frio, TX United States",
+    "title": "Tejas Hummercam",
+    "url": "http://www.tejashummer.com/TJHUMMER1.htm#tejascam",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "North Manchester, IN United States",
+    "title": "Manchester College",
+    "url": "http://www.manchester.edu/Common/Spartancam/index.htm",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  },
+  {
+    "location": "Rybnik,  Poland",
+    "title": "Camera From Rybnik",
+    "url": "http://www.rybnik.pl/index.php?id=485",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People,Traffic"
+  },
+  {
+    "location": "Seattle, WA United States",
+    "title": "University of Washington Webcams",
+    "url": "http://www.washington.edu/cambots/",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Washington DC, DC United States",
+    "title": "Panda Cam",
+    "url": "http://nationalzoo.si.edu/animals/webcams/giant-panda.cfm",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weird & Bizarre"
+  },
+  {
+    "location": "Palaiochora,  Greece",
+    "title": "East side Palaiochora Crete",
+    "url": "http://www.palaiochora.com/?page_id=1400",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Kirksville, MO United States",
+    "title": "Truman State University Webcams",
+    "url": "http://webcam.truman.edu/view.asp?cam=rl1&size=sm",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  },
+  {
+    "location": "Asheville, NC United States",
+    "title": "Asheville NC Live Cam",
+    "url": "http://www.live-photo.com",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "New Orleans, LA United States",
+    "title": "Mississippi River BridgeCam",
+    "url": "http://www.nola.com/bridgecam/video/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Ischgl,  Austria",
+    "title": "Ischgl, Tyrol Webcam ",
+    "url": "http://www.ischgl.com/en-webcams-tyrol.htm",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Lamezia Terme,  Italy",
+    "title": "Lamezia Live Cam",
+    "url": "http://www.lameziaweb.biz/lamezialivecam.asp",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Montevideo,  Uruguay",
+    "title": "Torre de las Telecomunicaciones Vista Sur",
+    "url": "http://camaras.adinet.com.uy/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Doylestown, PA United States",
+    "title": "Doylestowns Front Porch",
+    "url": "http://www.doylestownsfrontporch.com/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Ballina,  Ireland",
+    "title": "Ballina Mayo Web Cam",
+    "url": "http://www.ballinalive.com/index.php/The-Ridge-Pool-Live-Web-Camera.html",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Doyelstown, PA United States",
+    "title": "Live Koi Cam",
+    "url": "http://www.livekoicam.com",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Albany, NY United States",
+    "title": "Bunnies for Babies",
+    "url": "http://www.bunniesforbabies.com",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: USS Intrepid Returns, Time-Lapse Mo...",
+    "url": "http://www.earthcam.com/usa/newyork/intrepid/index.php?cam=intrepid_streaming",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Shiocton, WI United States",
+    "title": "Wolf River Cam",
+    "url": "http://wolfrivercam.com/",
+    "cam_type": "Real Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+,
+  {
+    "location": "Etna, WY United States",
+    "title": "Star Valley North View",
+    "url": "http://www.seejh.com/webcams/starvalley/northview/?live",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Koprivnica,  Croatia",
+    "title": "Koprivnica - Building Yard",
+    "url": "http://www.livecamcroatia.com/?page_id=8438",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Vodice,  Croatia",
+    "title": "Vodice - Hangar Beach",
+    "url": "http://www.livecamcroatia.com/?page_id=8458",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Mali Losinj,  Croatia",
+    "title": "Mali Losinj",
+    "url": "http://www.livecamcroatia.com/?page_id=8473",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Veli Losinj,  Croatia",
+    "title": "Veli Losinj Harbor",
+    "url": "http://www.livecamcroatia.com/?page_id=8469",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Pula,  Croatia",
+    "title": "Pula Amphitheater",
+    "url": "http://www.livecamcroatia.com/?page_id=8520",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "San Diego, CA United States",
+    "title": "Polar Bear Cam",
+    "url": "http://www.sandiegozoo.org/polarcam/index.html",
+    "cam_type": "Real Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "San Diego, CA United States",
+    "title": "Elephant Cam",
+    "url": "http://kids.sandiegozoo.org/animal-cams-videos/elephant",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "Independence Day 2015 Fireworks",
+    "url": "http://www.earthcam.com/events/fourthofjuly/2015/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Rome, NY United States",
+    "title": "Back Yard Deer Cam",
+    "url": "http://www.cnyweather.com/backcam.php",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  }
+,
+  {
+    "location": "Kostroma,  Russia",
+    "title": "Kostroma Cam",
+    "url": "http://www.gradkostroma.ru/webcam/index.aspx",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Belgrade,  Serbia",
+    "title": "Belgrade Traffic Cams",
+    "url": "http://www.naxi.rs/kamere/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Tihany,  Hungary",
+    "title": "Tihany",
+    "url": "http://www.hungary-live.com/en/balaton/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Eforie Sud,  Romania",
+    "title": "Black Sea - Eforie Sud - Capul Turcului",
+    "url": "http://www.scubadiver.ro/index.php?pg=livestream",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Vinchio,  Italy",
+    "title": "Vinchio Panorama",
+    "url": "http://vinchio.ditta.com/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Wroclaw,  Poland",
+    "title": "Wroclaw Cam",
+    "url": "http://oognet.pl/content/details/685",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Traffic"
+  },
+  {
+    "location": "Revere, MA United States",
+    "title": "Revere Beach Live Cam",
+    "url": "http://www.boston.com/travel/specials/livecams/reverebeach/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Toronto,  Canada",
+    "title": "Scarboro Vacuum Live",
+    "url": "http://www.camstreams.com/asx.asp?user=scarborovacuum",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Kamloops,  Canada",
+    "title": "Tournament Capital Centre",
+    "url": "http://www.kamloops.ca/parks/index.shtml",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Yerevan,  Armenia",
+    "title": "Yerevan Republic Square",
+    "url": "http://www.myyerevan.am/en/webcams/",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  }
+,
+  {
+    "location": "Melbourne,  Australia",
+    "title": "Melbourne CBD - Federation Square",
+    "url": "http://www.fedsquare.com/fed-cam",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Le Havre,  France",
+    "title": "Sainte-Adresse",
+    "url": "http://www.lehavretourisme.tv/fr/webcam-sainte-adresse-le-havre.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic,Weather"
+  },
+  {
+    "location": "Subotica,  Serbia",
+    "title": "Subotica - Serbia Cam",
+    "url": "http://www.subotica.com/uzivo/kamera-gradska-kuca-plava-fontana.html",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Computer"
+  },
+  {
+    "location": "Gibsons,  Canada",
+    "title": "Gibson, BC, Sunshine Coast Web Cam",
+    "url": "http://oceanpointcabin.com/webcam/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Churchill,  Canada",
+    "title": "Polar Bear Cam Lodge",
+    "url": "http://explore.org/live-cams/player/polar-bear-lodge-cam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Scenic"
+  },
+  {
+    "location": "Skopje,  Macedonia",
+    "title": "Skopje, Macedonia",
+    "url": "http://www.idividi.com.mk/extras/live/kamera_makedonija.asp",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Sinj,  Croatia",
+    "title": "Sinj Main Square",
+    "url": "http://www.dalmacija.net/sinj/webcam.html",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Weather"
+  },
+  {
+    "location": "Split,  Croatia",
+    "title": "Split Riva dalmacija.net",
+    "url": "http://www.dalmacija.net/site/home/webcam.htm",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Weather"
+  },
+  {
+    "location": "Kronotsky National Reserve,  Russia",
+    "title": "Kurilskoe Lake",
+    "url": "http://www.kronoki.ru/kurilskoelive",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Neue Mitte,  Germany",
+    "title": "Ulm Neue Mitte Live View",
+    "url": "http://94.125.79.44/view/index.shtml",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Groenlo,  Netherlands",
+    "title": "N319 Landbouwpasseerhavens, Groenlo",
+    "url": "http://webcam.prvgld.nl/n319.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Zaporozhye,  Ukraine",
+    "title": "Zaporozhye SkyCam",
+    "url": "http://www.webcam.zp.ua/?l193#camera",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Huntington Beach, CA United States",
+    "title": "Solspot HD Surf Cams  ",
+    "url": "http://surf.solspot.com",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Lofer,  Austria",
+    "title": "Webcams in Salzburg",
+    "url": "http://www.lofer.com/impressionen/saalachtal-webcams",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Maui, HI United States",
+    "title": "Napili Sunset Live Cam",
+    "url": "http://www.napilisunset.com/live-webcam",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Unknown,  Estonia",
+    "title": "Owl Cam",
+    "url": "http://www.eoy.ee/kodukakk/kakukaamera/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Dublin,  Ireland",
+    "title": "Live Penguin Cam",
+    "url": "http://www.dublinzoo.ie/20/Penguins.aspx",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Frederick, MD United States",
+    "title": "TankedCAM - The Interactive FishCam",
+    "url": "http://www.tankedcam.com/index.php?option=com_content&view=article&id=87&Itemid=99",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Guaratuba, PR Brazil",
+    "title": "Beira-Mar, Avenida Atlantica",
+    "url": "http://www.sulaovivo.com.br/praias/beira-mar-avenida-atlantica-guaratuba.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "santa cruz de tenerife,  Spain",
+    "title": "Candelaria Square",
+    "url": "http://www.canarylive24.com/es/webcam-live-santa-cruz-de-tenerife-plaza-de-la-candelaria",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation,Traffic,Weather"
+  }
+,
+  {
+    "location": "Los Cristianos, Arona,  Spain",
+    "title": "Los Cristianos Beach",
+    "url": "http://www.canarylive24.com/es/webcam-live-playa-los-cristianos",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation,Weather"
+  },
+  {
+    "location": "Yoshkar-Ola,  Russian Federation",
+    "title": "Yoshkar-Ola",
+    "url": "http://www.marimedia.ru/video/livecams/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Weather"
+  },
+  {
+    "location": "Atlantic City, NJ United States",
+    "title": "Jersey-Atlantic Wind Farm Cam ",
+    "url": "http://www.acua.com/windcam",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Rome,  Italy",
+    "title": "Rome Webcam",
+    "url": "http://www.romexplorer.com/rome-webcam.htm",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Traffic,Weather"
+  },
+  {
+    "location": "Mt. Vernon, VA United States",
+    "title": "Osprey Zone",
+    "url": "http://ospreyzone.com/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Trnava,  Slovak Republic",
+    "title": "Vcelovina Honeybee Hive Cam",
+    "url": "http://www.vcelovina.com/beecam.php",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Education"
+  },
+  {
+    "location": "Conil de la Frontera,  Spain",
+    "title": "Conil de la Frontera",
+    "url": "http://www.holiday-andaluz.com/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Park City, UT United States",
+    "title": "Main Street Park City",
+    "url": "http://www.treasuremountaininn.com/streetcam.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Panama City Beach, FL United States",
+    "title": "Gulf World Stingray Bay Live Cam",
+    "url": "http://gulfworldmarinepark.com/sting-ray-interactive-program/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Reno, NV United States",
+    "title": "Reno Aces Web Cam",
+    "url": "http://www.reno.gov/Index.aspx?page=1594",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  }
+,
+  {
+    "location": "Reno, NV United States",
+    "title": "Virginia Street Reno Sign Cam",
+    "url": "http://www.reno.gov/get-involved/watch-and-learn/reno-webcams/virginia-street-webcam",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Nagoya,  Japan",
+    "title": "Port Nagoya",
+    "url": "http://www6.kaiho.mlit.go.jp/nagoyako/jh/jh33/jh33.htm",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Other Links,  United States",
+    "title": "Cathouse Webcam",
+    "url": "http://www.catcam.us/",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "FL United States",
+    "title": "Tigerhomes.org",
+    "url": "http://www.tigerhomes.org/animal/cams.cfm",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Kinahmo,  Finland",
+    "title": "Kinahmo Cam",
+    "url": "http://www.polvijarvi.fi/kinahmo/Kamera/kinahmocam.htm",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Hulst,  Netherlands",
+    "title": "Grote Markt Hulst",
+    "url": "http://www.vestingstadhulst.nl/webcam.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Traffic,Weather"
+  },
+  {
+    "location": "San Antonio, TX United States",
+    "title": "Alamo Cam ",
+    "url": "http://www.ustream.tv/channel/alamocam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Zakopane,  Poland",
+    "title": "Krupowki Street, Flamingo Hostel",
+    "url": "http://oognet.pl/content/details/124",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Amersfoort,  Netherlands",
+    "title": "Zoo Amersfoort Rhinoceros",
+    "url": "http://hdtv.webcam.nl/amersfoort/cam1/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Leysin,  Switzerland",
+    "title": "Leysin Cam",
+    "url": "http://www.prealp.ch/cam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Padstow,  United Kingdom",
+    "title": "Padstow Inner Harbour",
+    "url": "http://www.padstow-harbour.co.uk/phc_webcam.html",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Amersfoort,  Netherlands",
+    "title": "HD Rhinoceros WebCam 3",
+    "url": "http://hdtv.webcam.nl/amersfoort/cam3/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Amersfoort,  Netherlands",
+    "title": "HD Rhinoceros WebCam 2",
+    "url": "http://hdtv.webcam.nl/amersfoort/cam2/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Swinoujscie,  Poland",
+    "title": "Swinoujscie Beach",
+    "url": "http://oognet.pl/content/details/871",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Space & Science"
+  },
+  {
+    "location": "Zakopane,  Poland",
+    "title": "Zakopane Gubalowka",
+    "url": "http://oognet.pl/content/details/275",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Arnhem,  Netherlands",
+    "title": "N224 Papendal, Arnhem",
+    "url": "http://webcam.prvgld.nl/n224.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Zutphen,  Netherlands",
+    "title": "N348b Den Elterweg",
+    "url": "http://webcam.prvgld.nl/n348b.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Debrecen,  Hungary",
+    "title": "Arpad Square",
+    "url": "http://web.t-online.hu/burgundia/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Kesteren,  Netherlands",
+    "title": "N233 brug Rhenen",
+    "url": "http://webcam.prvgld.nl/n233.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Nijkerk,  Netherlands",
+    "title": "N301 Nijkerk",
+    "url": "http://webcam.prvgld.nl/n301.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  }
+,
+  {
+    "location": "Mykonos,  Greece",
+    "title": "Mykonos Island Greece ",
+    "url": "http://www.mykonosexplorer.gr/mykonos_live_camera.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Omaha, NE United States",
+    "title": "Creighton Live",
+    "url": "http://www2.creighton.edu/about/webcam/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Los Angeles, CA United States",
+    "title": "Found Animals",
+    "url": "http://www.ustream.tv/channel/found-animals",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Loxahatchee, FL United States",
+    "title": "Purple Martin BirdCam",
+    "url": "http://purplemartins-r-us.com/live-birdcam-t-19.html",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Domburg,  Netherlands",
+    "title": "Webcam Domburg",
+    "url": "http://www.webcamdomburg.nl/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "New Braunfels, TX United States",
+    "title": "Comal River Cam",
+    "url": "http://www.comalrivercam.com",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Wicklow,  Ireland",
+    "title": "Wicklow Cam",
+    "url": "http://www.wicklowcam.com",
+    "cam_type": "MPEG-4",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Vancouver,  Canada",
+    "title": "English Bay",
+    "url": "http://doc.axiscam.net:8888",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Leba,  Poland",
+    "title": "Leba Beach, Agados",
+    "url": "http://oognet.pl/content/details/713",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Space & Science"
+  },
+  {
+    "location": "Urmston,  United Kingdom",
+    "title": "Wellacre Ecology Centre",
+    "url": "http://webcam1.wellacre.org:8080/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  }
+,
+  {
+    "location": "Toronto,  Canada",
+    "title": "BirdcamTO",
+    "url": "http://stuhallwrites.com/birdcam",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Lebork,  Poland",
+    "title": "Lebork Plac Pokoju",
+    "url": "http://www.lebork.pl/kamera/",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Los Angeles, CA United States",
+    "title": "Hollywood Sign",
+    "url": "http://hollywoodsign.org/webcams/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Hurghada,  ",
+    "title": "Hurghada, Egypt",
+    "url": "http://www.tommy-friedl.com",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Chicago, IL United States",
+    "title": "Oak Street Beach",
+    "url": "http://www.oakstbeach.com/",
+    "cam_type": "Real Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Monteveglio - Bologna,  Italy",
+    "title": "Il giardino di Fiorella e Fabio",
+    "url": "http://www.oliveto.info",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Nesconset, NY United States",
+    "title": "Greywatching",
+    "url": "http://24.184.81.22:8000",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  },
+  {
+    "location": "Ulan-Ude,  Russia",
+    "title": "Ulan-Ude",
+    "url": "http://stbur.ru/webcam/",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Burgos,  Spain",
+    "title": "Burgos",
+    "url": "http://www.catedraldeburgos.com/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic,Weather"
+  },
+  {
+    "location": "Succasunna, NJ United States",
+    "title": "Succasunna, NJ Weather Cam",
+    "url": "http://succasunnaweather.com",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  }
+,
+  {
+    "location": "Swisttal-Miel,  Germany",
+    "title": "Golf-Club Schloss Miel",
+    "url": "http://www.liveview-net.de/cams/Schloss_Miel/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Buffalo, NY United States",
+    "title": "Pano's Restaurant Cam",
+    "url": "http://buffalowebcam.com/live-webcams/elmwood-avenue-panos-restaurant",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Buffalo, NY United States",
+    "title": "Half & Half Clothing",
+    "url": "http://buffalowebcam.com/live-webcams/elmwood-avenue-half-half-clothing",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "San Diego, CA United States",
+    "title": "Absolutely Apes ",
+    "url": "http://www.sandiegozoo.org/apecam/index.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  },
+  {
+    "location": "Elwood, Victoria,  Australia",
+    "title": "St Kilda Marina",
+    "url": "http://www.stkildaboatsales.com.au/webcam/index.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Kahuku, HI United States",
+    "title": "Turtle Bay Resort Surf Cam",
+    "url": "http://www.turtlebayresort.com/About_Us/webcam.asp",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Heiligenhafen,  Germany",
+    "title": "Heiligenhafen Yachthafen",
+    "url": "http://www.heiligenhafen-info.de/webcam/yachthafen/index.html?PHPSESSID=0ffc94b289c3651a8569588da623773d",
+    "cam_type": "Real Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Desenzano Del Garda,  Italy",
+    "title": "Desenzano del Garda Web Cam",
+    "url": "http://www.onde.net/dese_cam",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Arcata, CA United States",
+    "title": "Humboldt State University",
+    "url": "http://www.humboldt.edu/humboldt/webcam",
+    "cam_type": "MPEG-4",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  },
+  {
+    "location": "Warsaw,  Poland",
+    "title": "Peregrine Falcons",
+    "url": "http://www.webcam.peregrinus.pl/pkin-warszawa.htm",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+,
+  {
+    "location": "Hamburg City,  Germany",
+    "title": "Hamburg Harbor",
+    "url": "http://www.hamburg.de/livecam-hafen/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Tortoreto Lido,  Italy",
+    "title": "Tortoreto Lido Beach",
+    "url": "http://www.laguiritatortoreto.it/webcam.asp",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Allentown, PA United States",
+    "title": "Duck Cam",
+    "url": "http://www.liveducks.com",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Eu,  France",
+    "title": "Parc of the Eu's Castle",
+    "url": "http://www.vision-normandie.com/webcams/Eu/webcam_Eu.php",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Brest,  Belarus",
+    "title": "Urban Common Kestrel Nest Webcam",
+    "url": "http://www.birdwatch.by/pustalga_brest",
+    "cam_type": "MPEG-4",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Gorham, ME United States",
+    "title": "PeregrineCam",
+    "url": "http://www.briloon.org/watching-wildlife/peregrine-cam.php",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Vars,  France",
+    "title": "Vars Les Claux",
+    "url": "http://www.vars.com/hiver/gb/vars-bulletin-neige-meteo-webcam.asp",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Selva Gardena,  Italy",
+    "title": "Dolomites: Val Gardena Camera 2",
+    "url": "http://www.val-gardena.com/livecam/plandegralba-en.htm",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Minneapolis, MN United States",
+    "title": "Doubletake Gallery Cam",
+    "url": "http://www.doubletakeart.com/gallerycam.htm",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam Network",
+    "url": "http://www.earthcam.com/network/",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  }
+,
+  {
+    "location": "Abaco,  Bahamas",
+    "title": "Bahamas Rocky Bay WebCam",
+    "url": "http://www.rockybay.com/webcam_page.htm",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Sterling Heights, MI United States",
+    "title": "Eat At Joe's",
+    "url": "http://www.eat-at-joes.net/cam/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Monterey, CA United States",
+    "title": "Outer Bay Cam",
+    "url": "http://www.montereybayaquarium.org/efc/efc_lotb/webcam.aspx",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Fallon, NV United States",
+    "title": "American Blue Lacy Association's Puppy Camera",
+    "url": "http://www.americanbluelacyassociation.com/Join-American-Blue-Lacy-Association.html",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Jersey City, NJ United States",
+    "title": "Montgomery Gardens Implosion",
+    "url": "http://www.earthcam.net/projects/jerseycityimplosion/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Tarnowskie Gory,  Poland",
+    "title": "Tarnowskie Gory",
+    "url": "http://wcam.pl/tarnowskiegory",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Debowiec,  Poland",
+    "title": "Debowiec Cam",
+    "url": "http://wcam.pl/debowieccn",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Mragowo,  Poland",
+    "title": "Lapa Niedzwiedzicy",
+    "url": "http://wcam.pl/laweczkamragowo",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Zlotow,  Poland",
+    "title": "Roundabout Cam",
+    "url": "http://wcam.pl/umzlotow",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Little Rock, AR United States",
+    "title": "Arkansas Weather Cams",
+    "url": "http://archive.thv11.com/%28X%281%29A%28SlTUQo8OzQEkAAAAMDE0MDdiN2UtNDBlMC00ZjQwLTkxMWEtMmYwNDRiNDRkMWE2jqBWVN2S1ECjhPUK4T-4xLsbIiI1%29%29/weather/weathernet/default.aspx",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Thassos,  Greece",
+    "title": "Thassos Cam",
+    "url": "http://www.go-thassos.gr/thassos-webcam/golden-beach/webcam.html",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Zwartemeer,  Netherlands",
+    "title": "Church Candles Lighting",
+    "url": "http://www.mijnbrandendekaars.nl/cgi-bin/webcamlocatie/index.cgi?id=2",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Jesolo,  Italy",
+    "title": "Jesolo Webcam",
+    "url": "http://www.camani.it/webcam",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Red Deer, Alberta,  Canada",
+    "title": "RDRN's Peregrine Falcon Webcam",
+    "url": "http://www.rdrn.fanweb.ca/programs/ongoing_programs/peregrine_web_cam.htm",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Sanibel, FL United States",
+    "title": "Sanibel Island Beach Webcam",
+    "url": "http://www.islandinnsanibel.com/beachcam-live-video",
+    "cam_type": "MPEG-4",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Osage Beach, MO United States",
+    "title": "Lake of the Ozarks Real Estate",
+    "url": "http://www.realestateozarks.com/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Sports & Recreation,Weather"
+  },
+  {
+    "location": "Newburgh, ME United States",
+    "title": "Organic Vegetable Garden Webcam",
+    "url": "http://www.organiccam.com",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Missoula, MT United States",
+    "title": "MCAT Cam",
+    "url": "http://www.mcat.org/MCATcam.php",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Thanksgiving Parade Balloon Inflati...",
+    "url": "http://www.earthcam.com/events/thanksgiving/2011/?cam=balloons",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment,News,Scenic,Society & People,Traffic,Weather"
+  },
+  {
+    "location": "Plant City, FL United States",
+    "title": "Lark Photo & Framing",
+    "url": "http://www.larkpf.com",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  }
+,
+  {
+    "location": "San Diego, CA United States",
+    "title": "Pacific Beach Cam",
+    "url": "http://surf.solspot.com/weather/north-pacific/southern-california/south-san-diego/tourmaline",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Space & Science"
+  },
+  {
+    "location": "Del Mar, CA United States",
+    "title": "Del Mar Cam",
+    "url": "http://surf.solspot.com/weather/north-pacific/southern-california/north-san-diego/del-mar-san-dieguito-river-beach",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Oxford,  Great Britain",
+    "title": "Oxford Internet Institute",
+    "url": "http://webcam.oii.ox.ac.uk/camera1.cfm",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education,Society & People"
+  },
+  {
+    "location": "Hertford,  Great Britain",
+    "title": "Hertford Webcam",
+    "url": "http://www.conbarhouse.co.uk/hertford_webcam.html",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Albstadt,  Germany",
+    "title": "Gute Aussicht Webcam",
+    "url": "http://www.gute-aussicht.de/webcam.html",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Jonkoping,  Sweden",
+    "title": "Jonkoping Cam",
+    "url": "http://webcam.hj.se/?language=eng",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Rockville, MD United States",
+    "title": "National Cancer Institute Time-lapse",
+    "url": "http://www.earthcam.net/timelapse/demo.php?cam=healthcare5",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Hershey, PA United States",
+    "title": "PennState Hershey Children's Hospital Time-la...",
+    "url": "http://www.earthcam.net/timelapse/demo.php?cam=healthcare8",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Seattle, WA United States",
+    "title": "Virginia Mason Main Campus Time-lapse",
+    "url": "http://www.earthcam.net/timelapse/demo.php?cam=healthcare6",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "New York, NY United States",
+    "title": "Presbyterian Hospital Time-lapse",
+    "url": "http://www.earthcam.net/timelapse/demo.php?cam=healthcare7",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  }
+,
+  {
+    "location": "Springfield, OH United States",
+    "title": "Springfield Regional Medical Center Time-laps...",
+    "url": "http://www.earthcam.net/timelapse/demo.php?cam=healthcare9",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Durham, NC United States",
+    "title": "Duke Medicine Time-lapse",
+    "url": "http://www.earthcam.net/timelapse/demo.php?cam=education8",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Pont Mahe,  France",
+    "title": "Pont Mahe",
+    "url": "http://www.vision-environnement.com/web/webcam-de-pont-mahe-le-moulin-de-leclis/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Nevers,  France",
+    "title": "Nevers Town Cam",
+    "url": "http://www.vision-environnement.com/web/webcam-nevers-meteorologie/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Mont Serein - Ventoux,  France",
+    "title": "Mont Serein - Ventoux",
+    "url": "http://www.stationdumontserein.com/english.php",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Veulettes sur Mer,  France",
+    "title": "Veulettes sur Mer",
+    "url": "http://www.vision-environnement.com/web/veulettes-sur-mer-le-front-de-mer/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Grenoble,  France",
+    "title": "Grenoble",
+    "url": "http://www.vision-environnement.com/web/grenoble-vers-chamrousse/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Saint-Jouin-Bruneval,  France",
+    "title": "Saint-Jouin-Bruneval",
+    "url": "http://www.vision-environnement.com/web/saint-jouin-bruneval-la-plage/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Saint-Valery-en-caux,  France",
+    "title": "Saint-Valery-en-Caux",
+    "url": "http://www.vision-environnement.com/web/saint-valery-en-caux-le-port-nord/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Noirmoutier,  France",
+    "title": "Noirmoutier",
+    "url": "http://www.vision-environnement.com/web/webcam-de-lherbaudiere-le-port/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "Bridgend,  Wales",
+    "title": "Pontycymer Weather Site",
+    "url": "http://www.pontyweather.info/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Visegrad,  Hungary",
+    "title": "Visegrad Citadel",
+    "url": "http://www.hungary-live.com/en/hungarian-nature/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Breda,  Netherlands",
+    "title": "Weer Cam Breda",
+    "url": "http://members.ziggo.nl/ekramers/wx/index.html",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "Manvel, TX United States",
+    "title": "The Southeast Texas Cam",
+    "url": "http://n5rog.camstreams.com/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weather"
+  },
+  {
+    "location": "San Diego, CA United States",
+    "title": "Downtown San Diego",
+    "url": "http://pp.n3tw3rks.com/mediaplayer/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "Lisse,  Netherlands",
+    "title": "Lisse Commercial Center",
+    "url": "http://hdtv.webcam.nl/lisse/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Wraxall, Bristol,  England",
+    "title": "Tiger Cam",
+    "url": "http://www.noahsarkzoofarm.co.uk/pages/visiting/webcams/lions-outside.php",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Merthyr,  Wales",
+    "title": "Merthyr Tydfil Webcam",
+    "url": "http://www.merthyr.gov.uk/Home/Community/Webcam/Webcam+Video.htm",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Cabarete,  Dominican Republic",
+    "title": "GoKite Cabarete Kiteboarding School",
+    "url": "http://gokitecabarete.com/gokite-weather-and-live-beach-camera/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Billington,  United Kingdom",
+    "title": "Mead Open Farm Camera",
+    "url": "http://www.checkitlive.com/camera/1112",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Weird & Bizarre"
+  }
+,
+  {
+    "location": "Thessaloniki,  Greece",
+    "title": "Thessaloniki Port Webcam",
+    "url": "http://www.saloniki.org/webcam/webcam.htm",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Cleveland, OH United States",
+    "title": "African Elephant Crossing Construction",
+    "url": "http://www.clemetzoo.com/webcam/webcam-aec.asp",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Business"
+  },
+  {
+    "location": "Des Moines, IA United States",
+    "title": "Japanese Macaque Monkey Cam",
+    "url": "http://www.blankparkzoo.com/index.cfm?nodeID=21078",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Travnik,  Bosnia-Herzegovina",
+    "title": "Kafana Online",
+    "url": "http://www.kafana.ba/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Sarasota, FL United States",
+    "title": "Diving Dogs Pool Cam",
+    "url": "http://www.seesarasotalive.com/webcams/swimming-dogs-pool-cam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Strobl,  Austria",
+    "title": "Postalm Ski Cam",
+    "url": "http://www.postalm.at/Webcam.php",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Sports & Recreation"
+  },
+  {
+    "location": "Nowa Deba,  Poland",
+    "title": "Nowa Deba Cameras",
+    "url": "http://www.nowadeba.com.pl/index.php/pl/left/kamery",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Hemer,  Germany",
+    "title": "Hemer",
+    "url": "http://webcam-hemer.de",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Traffic"
+  },
+  {
+    "location": "Looe,  Great Britain",
+    "title": "Looe Bay and Harbour",
+    "url": "http://www.secta.org.uk/webcam.htm",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  },
+  {
+    "location": "Vancouver, WA United States",
+    "title": "Wind River Canopy Crane",
+    "url": "http://depts.washington.edu/wrccrf/cranecam/index.html",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic"
+  }
+,
+  {
+    "location": "University, MS United States",
+    "title": "University of Mississippi Campus Cams",
+    "url": "http://www.olemiss.edu/livecam/",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Education"
+  },
+  {
+    "location": "Key West, FL United States",
+    "title": "Hog's Breath HogCams",
+    "url": "http://www.hogsbreath.com/keywest/index.php/hog-cams/",
+    "cam_type": "Windows Media",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Myrtle Beach, SC United States",
+    "title": "Sea Watch Resort",
+    "url": "http://www.seawatchresort.com/webcam/",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Scenic,Weather"
+  },
+  {
+    "location": "MI United States",
+    "title": "Vinyl Wall Productions Webcam",
+    "url": "http://webcam.vinylwall.com",
+    "cam_type": "Java",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Arts & Entertainment"
+  },
+  {
+    "location": "Syracuse, NY United States",
+    "title": "Rosamond Tiger Cams",
+    "url": "http://rosamondgiffordzoo.org/tigers",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  },
+  {
+    "location": "Mount Hermon,  Israel",
+    "title": "Isracam",
+    "url": "http://www.isracamera.co.il",
+    "cam_type": "JPEG",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": ""
+  },
+  {
+    "location": "Brewster, OH United States",
+    "title": "Dillie the House Deer",
+    "url": "http://www.dilliedeer.com/dilliecam.html",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals,Weird & Bizarre"
+  },
+  {
+    "location": "Heerhugowaard,  Netherlands",
+    "title": "PI6ALK Amateur Television Repeater",
+    "url": "http://www.atv.watch",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People"
+  },
+  {
+    "location": "Raeford, NC United States",
+    "title": "Paraclete XP SkyVenture",
+    "url": "http://new.livestream.com/paracletexp/paracletexp",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Society & People,Sports & Recreation"
+  },
+  {
+    "location": "Monterey, CA United States",
+    "title": "Jelly Cam",
+    "url": "http://www.montereybayaquarium.org/animals-and-experiences/live-web-cams/jelly-cam",
+    "cam_type": "Flash",
+    "result_bottom": "Cam Type: Streaming Image",
+    "Categories": "Animals"
+  }
+]
