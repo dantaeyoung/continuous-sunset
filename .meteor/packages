@@ -24,6 +24,7 @@ react
 erasaur:meteor-lodash
 
 
-npm-container
 alisalaah:suncalc
 momentjs:moment
+d3js:d3
+dburles:google-maps

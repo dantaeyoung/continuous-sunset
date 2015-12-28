@@ -1,1 +1,21 @@
 /* CSS declarations go here */
+
+#times {
+    width: 2000px;
+    margin-left: 600px;
+
+    & .sun-time {
+        width: 400px;
+        height: 5px;
+        display: block;
+        position: relative;
+        & .caption {
+            font-size: 0.8em;
+            opacity: 0.4;
+        }
+        & .marker{
+            opacity: 1;
+            color: red;
+        }
+    }
+}

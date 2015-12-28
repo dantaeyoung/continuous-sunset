@@ -14,26 +14,6 @@ if Meteor.isClient
             Session.set "counter", Session.get("counter") + 1
             return
 
-    updateTime = () ->
-        console.log "------------ calling updateTime"
-        randomCityName = _.sample(_.keys(@cities))
-        randomCity = @cities[randomCityName]
-        console.log randomCityName
-        console.log randomCity
-        nowDate = new Date()
-        times = SunCalc.getTimes(nowDate, randomCity.lat, randomCity.long)
-        console.log times
-        timesDiff = _.object(_.map(times, (val, key) ->
-            return [key, moment().to(val)]
-        ))
-        $("#times").append("<div>" + timesDiff['sunrise'] + "</div>")
-        
-        console.log timesDiff
-
-
-    updateTime()
-    Meteor.setInterval(updateTime, 2000); 
-
 if Meteor.isServer
     Meteor.startup ->
 
