@@ -5,11 +5,14 @@
 <body>
   <h1>Welcome to Meteor!</h1>
 
-  <div id="render-target"></div>
-  {{> hello}}
+  <div id="current-time">
+  {{> current_time}}
+  </div>
+  <div id="times"></div>
 </body>
 
-<template name="hello">
+<template name="current_time">
   <button>Click Me</button>
   <p>You've pressed the button {{counter}} times.</p>
+  Time is: {{current_time}}
 </template>

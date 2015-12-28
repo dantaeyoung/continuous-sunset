@@ -21,3 +21,9 @@ insecure                # Allow all DB writes from clients (for prototyping)
 coffeescript
 fourseven:scss
 react
+erasaur:meteor-lodash
+
+
+npm-container
+alisalaah:suncalc
+momentjs:moment
