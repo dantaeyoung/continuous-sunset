@@ -2,34 +2,47 @@ request = require("request")
 jsonfile = require('jsonfile')
 util = require('util')
 _ = require('lodash')
-Q = require('q')
+finish = require("finish")
+
  
 infile = './50pageresults.json'
 outfile = infile + '.geocoded.json'
 
-googleGeocodeURL = "https://maps.googleapis.com/maps/api/geocode/json?address=ADDRESS&key=AIzaSyC6tmM3pNOmubnbXB9YK3Hsr3nsABT2clw"
+googleGeocodeURL = "https://maps.googleapis.com/maps/api/geocode/json?address=ADDRESS&key="
+APIKEY = "AIzaSyD3AuK9RUlJT84ytmkx5MK8LH2EAZVbUVY"
+
+googleGeocodeURL += APIKEY
 
 webcams = {}
 
 jsonfile.readFile infile, (err, obj) ->
 
-    Q
-        .all(obj.map geocodeLookup)
-        .then (d) ->
-            webcams = {}
-            for o in d
-                webcams[o.title] = o
-            console.log webcams 
+    webcams = {}
+    
+    DELAY = 150
 
-            jsonfile.writeFile outfile, webcams, {spaces: 2}, (err) ->
-                console.error(err)
-            
+    objarray = obj
 
-                result.then(geocodeLookup(o)).delay(150).
+    # so hacky but Q wasn't working; got to rate-limit API requests
+    offset = 0
+    callbackn = 0
+    objarray.forEach (o) ->
+        setTimeout ->
+            geocodeLookup o, (data) ->
+                callbackn += 1
+                if data
+                    webcams[data.title] = data
+                if callbackn == objarray.length 
+                    console.log "DONE"
+                    jsonfile.writeFile outfile, webcams, {spaces: 2}, (err) ->
+                        console.error(err)
+        , offset
+        offset += DELAY 
 
 
-geocodeLookup = (o) ->
-    d = Q.defer()
+
+geocodeLookup = (o, callback) ->
+    console.log "starting a lookup"
     address = o.location.replace(/[ ]/g, "+")
     u = googleGeocodeURL.replace(/ADDRESS/, address)
 
@@ -43,12 +56,11 @@ geocodeLookup = (o) ->
                 loc = body.results[0].geometry.location
                 o.lat = loc.lat
                 o.lng = loc.lng
-                d.resolve(o)
+                callback(o)
             catch e 
                 console.log "ERROR==="
                 console.log u
                 console.log e
                 console.log body
-                d.resolve()
-    return d.promise;
+                callback()
 
