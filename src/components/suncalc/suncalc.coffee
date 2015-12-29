@@ -21,6 +21,9 @@ if Meteor.isClient
         state = 'sunrise'
 
         nowDate = new Date()
+
+        Session.set "current_time", nowDate
+
         times = SunCalc.getTimes(nowDate, randomCity.lat, randomCity.long)
 
         aTime = $("<div><span class='marker'>&#9679;</span><span class='caption'>-- The " + state + " for " + randomCityName.toTitleCase() + " is: " + moment().to(times[state]) + "</span></div>")
@@ -33,4 +36,4 @@ if Meteor.isClient
         map.AddMarker(randomCityName.toTitleCase(), randomCity.lat, randomCity.long, moment().diff(times[state], 'minutes'))
 
     suncalc.updateTime()
-    Meteor.setInterval(suncalc.updateTime, 2000); 
+    Meteor.setInterval(suncalc.updateTime, updateDelay); 

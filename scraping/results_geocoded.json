@@ -1,0 +1,29 @@
+{
+  "EarthCam: South Beach Cam": {
+    "location": "Miami, FL United States",
+    "title": "EarthCam: South Beach Cam",
+    "url": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach7",
+    "cam_type": "Flash",
+    "result_bottom": "\r\n\t\t\t\tCam Type: Streaming Image\r\n\t\t\t\t      \r\n\t\t\t\tCategories: Scenic\r\n\t\t\t",
+    "lat": 25.7616798,
+    "lng": -80.1917902
+  },
+  "EarthCam: Times Square Crossroads": {
+    "location": "New York City, NY United States",
+    "title": "EarthCam: Times Square Crossroads",
+    "url": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo3",
+    "cam_type": "Flash",
+    "result_bottom": "\r\n\t\t\t\tCam Type: Streaming Image\r\n\t\t\t\t      \r\n\t\t\t\tCategories: Business,Education,Arts & Entertainment,News,Scenic,Society & People,Traffic,Weather\r\n\t\t\t",
+    "lat": 40.7127837,
+    "lng": -74.0059413
+  },
+  "EarthCam: Elvis Wedding Chapel": {
+    "location": "Las Vegas, NV United States",
+    "title": "EarthCam: Elvis Wedding Chapel",
+    "url": "http://www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding",
+    "cam_type": "Flash",
+    "result_bottom": "\r\n\t\t\t\tCam Type: Streaming Image\r\n\t\t\t\t      \r\n\t\t\t\tCategories: Business,Arts & Entertainment,Society & People\r\n\t\t\t",
+    "lat": 36.1699412,
+    "lng": -115.1398296
+  }
+}

@@ -1,4 +1,5 @@
-@webcams = 
+@webcams = @webcams || {}
+@webcams = _.extend @webcams, { 
     "Bognor Regis, UK":
         lat: 50.7944554
         long: -0.678692
@@ -17,3 +18,4 @@
     "Oahu, Hawaii":
         latlong: "21.4667° N, 157.9833° W"
         url: "e.cdn-surfline.com/syndication/embed/v1/player.html?id=4751"
+}
