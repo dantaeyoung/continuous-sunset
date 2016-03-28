@@ -4,3 +4,25 @@
     overflow: hidden;
 }
 
+#webcam_images {
+	width: 400px;
+}
+
+.webcam_image {
+	& img {
+		max-width: 100%;
+	}
+	border: 3px solid pink;
+    opacity: 0.5;
+    animation: new-image-animation 0.5s linear forwards;
+}
+
+@keyframes new-image-animation {
+    from {
+        opacity: 0.5;
+	}
+    to {
+        opacity: 1;
+    }
+}
+

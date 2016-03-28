@@ -1,5 +1,5 @@
-this.webcams = this.webcams || {}
-this.webcams = _.extend(this.webcams, {
+this.earthcams = this.earthcams || {}
+this.earthcams = _.extend(this.earthcams, {
   "EarthCam: South Beach Cam": {
     "location": "Miami, FL United States",
     "title": "EarthCam: South Beach Cam",
