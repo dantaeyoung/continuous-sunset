@@ -48,4 +48,13 @@ this.webcams = _.extend(this.webcams, {
 		"lat": 36.0008687,
 		"long": -78.941258
 	}
+	"Windmill": {
+		"camid": 5,
+		"location": "Atlantic City, NJ, USA",
+		"web_url": "http://107.1.228.34/view/viewer_index.shtml?id=3561",
+		"cam_type": "MJPEG",
+		"img_url": "http://107.1.228.34/mjpg/video.mjpg",
+		"lat": 39.363390,
+		"long": -74.432751
+	}
 });
